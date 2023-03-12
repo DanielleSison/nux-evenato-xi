@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "CLI application for managing employee database utilizing Node.js, inquirer, and MYSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielleSison/nux-evenato-xi.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Inquirer",
+    "MYSQL",
+    "Employee",
+    "Tracker"
+  ],
+  "author": "Danielle Sison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielleSison/nux-evenato-xi/issues"
+  },
+  "homepage": "https://github.com/DanielleSison/nux-evenato-xi#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.4",
+    "mysql2": "^3.2.0"
+  }
+}
