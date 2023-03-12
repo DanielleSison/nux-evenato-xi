@@ -10,13 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/DanielleSison/nux-evenato-xi.git"
   },
-  "keywords": [
-    "Node.js",
-    "Inquirer",
-    "MYSQL",
-    "Employee",
-    "Tracker"
-  ],
   "author": "Danielle Sison",
   "license": "ISC",
   "bugs": {
@@ -25,7 +18,7 @@
   "homepage": "https://github.com/DanielleSison/nux-evenato-xi#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^9.1.4",
-    "mysql2": "^3.2.0"
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0"
   }
 }
